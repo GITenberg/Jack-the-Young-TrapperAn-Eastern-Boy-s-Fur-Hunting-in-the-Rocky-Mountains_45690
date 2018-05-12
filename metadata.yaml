@@ -1,0 +1,35 @@
+_repo: Jack-the-Young-TrapperAn-Eastern-Boy-s-Fur-Hunting-in-the-Rocky-Mountains_45690
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stone, Walter King
+    gutenberg_agent_id: '43413'
+    url: http://www.gutenberg.org/2009/agents/43413
+covers:
+- cover_type: archival
+  image_path: 45690-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Grinnell, George Bird
+    birthdate: 1849
+    deathdate: 1938
+    gutenberg_agent_id: '4021'
+    url: http://www.gutenberg.org/2009/agents/4021
+    wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
+description: ''
+gutenberg_issued: '2014-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcsh 'Rocky Mountains -- Juvenile fiction'
+- !lcsh 'Trapping -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Trappers -- Juvenile fiction'
+title: 'Jack the Young Trapper: An Eastern Boy''s Fur Hunting in the Rocky Mountains'
+url: http://www.gutenberg.org/ebooks/45690
