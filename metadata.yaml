@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4021
     wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45690#Jack-the-Young-TrapperAn-Eastern-Boy-s-Fur-Hunting-in-the-Rocky-Mountains
 gutenberg_issued: '2014-05-18'
 gutenberg_type: Text
 identifiers:
